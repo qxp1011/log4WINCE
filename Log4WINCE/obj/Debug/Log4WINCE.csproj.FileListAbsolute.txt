@@ -3,3 +3,8 @@ C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.pdb
 C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.dll
 C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.pdb
+C:\source\log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.dll
+C:\source\log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.pdb
+C:\source\log4WINCE\Log4WINCE\obj\Debug\ResolveAssemblyReference.cache
+C:\source\log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.dll
+C:\source\log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.pdb

@@ -1,0 +1,10 @@
+C:\source\log4WINCE\TestLog4WINCE\obj\Debug\ResolveAssemblyReference.cache
+C:\source\log4WINCE\TestLog4WINCE\obj\Debug\TestLog4WINCE.Form1.resources
+C:\source\log4WINCE\TestLog4WINCE\obj\Debug\TestLog4WINCE.Properties.Resources.resources
+C:\source\log4WINCE\TestLog4WINCE\obj\Debug\TestLog4WINCE.csproj.GenerateResource.Cache
+C:\source\log4WINCE\TestLog4WINCE\bin\Debug\TestLog4WINCE.exe
+C:\source\log4WINCE\TestLog4WINCE\bin\Debug\TestLog4WINCE.pdb
+C:\source\log4WINCE\TestLog4WINCE\bin\Debug\Log4WINCE.dll
+C:\source\log4WINCE\TestLog4WINCE\bin\Debug\Log4WINCE.pdb
+C:\source\log4WINCE\TestLog4WINCE\obj\Debug\TestLog4WINCE.exe
+C:\source\log4WINCE\TestLog4WINCE\obj\Debug\TestLog4WINCE.pdb
