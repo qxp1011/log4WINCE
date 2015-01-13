@@ -1,13 +1,5 @@
-C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.dll
-C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.pdb
-C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.dll
-C:\Users\qxp\Desktop\104规约\Log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.pdb
-<<<<<<< HEAD
 C:\source\log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.dll
 C:\source\log4WINCE\Log4WINCE\bin\Debug\Log4WINCE.pdb
 C:\source\log4WINCE\Log4WINCE\obj\Debug\ResolveAssemblyReference.cache
 C:\source\log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.dll
 C:\source\log4WINCE\Log4WINCE\obj\Debug\Log4WINCE.pdb
-=======
->>>>>>> bfe21d54a4a7b4fbacc9a58f4dfba48a80ebacb5

@@ -299,7 +299,6 @@
     <Content Include="site\xdoc\release\manual\plugins.xml" />
     <Content Include="site\xdoc\release\manual\repositories.xml" />
     <Content Include="site\xdoc\release\release-notes.xml" />
-    <None Include="exe.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
